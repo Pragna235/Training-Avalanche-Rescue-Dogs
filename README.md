@@ -4,3 +4,6 @@ It’s time for your charity to train a new generation of dogs in how to find hi
 * Feature Saling Exercise
 <br> Normalization & Standardization
 <br> https://github.com/Pragna235/Training-Avalanche-Rescue-Dogs/blob/main/Feature_Scaling_Exercise.ipynb
+
+* Training and Test Sets
+<br> https://github.com/Pragna235/Training-Avalanche-Rescue-Dogs/blob/main/Training_and_Test_Sets.ipynb
