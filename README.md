@@ -7,3 +7,7 @@ It’s time for your charity to train a new generation of dogs in how to find hi
 
 * Training and Test Sets
 <br> https://github.com/Pragna235/Training-Avalanche-Rescue-Dogs/blob/main/Training_and_Test_Sets.ipynb
+
+* Test Set Nuances
+<br> Train & Test Approach, Hold-out Approach, Statistical Approaches
+<br> https://github.com/Pragna235/Training-Avalanche-Rescue-Dogs/blob/main/Test_Set_Nuances.ipynb
